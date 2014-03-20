@@ -2,7 +2,7 @@ Install-Install
 ===============
 
 There are too many package managers for your projects nowadays. To install
-with Bundler, NPM, or Bower:
+with Bundler, NPM, Bower, or Leiningen:
 
 `install-install`
 
@@ -12,6 +12,7 @@ For example:
 * Bundler will run if a `Gemfile` is present
 * `npm install` will run if a `package.json` is present
 * `bower install` will run if a `bower.json` is present.
+* `lein deps` will run if a `project.clj` is present
 
 # Installation
 
