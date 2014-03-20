@@ -9,9 +9,9 @@ with Bundler, NPM, Bower, Leiningen or Maven:
 Install-Install will only run the command if its corresponding file is present.
 For example:
 
-* Bundler will run if a `Gemfile` is present
+* `bundle install` will run if a `Gemfile` is present
 * `npm install` will run if a `package.json` is present
-* `bower install` will run if a `bower.json` is present.
+* `bower install` will run if a `bower.json` is present
 * `lein deps` will run if a `project.clj` is present
 * `mvn dependency:resolve` will run if a `pom.xml` is present
 
