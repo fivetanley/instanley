@@ -2,7 +2,7 @@ Install-Install
 ===============
 
 There are too many package managers for your projects nowadays. To install
-with Bundler, NPM, Bower, or Leiningen:
+with Bundler, NPM, Bower, Leiningen or Maven:
 
 `install-install`
 
@@ -13,6 +13,7 @@ For example:
 * `npm install` will run if a `package.json` is present
 * `bower install` will run if a `bower.json` is present.
 * `lein deps` will run if a `project.clj` is present
+* `mvn dependency:resolve` will run if a `pom.xml` is present
 
 # Installation
 
