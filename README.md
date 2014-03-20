@@ -4,7 +4,7 @@ Install-Install
 There are too many package managers for your projects nowadays. To install
 with Bundler, NPM, or Bower:
 
-`install`
+`install-install`
 
 Install-Install will only run the command if its corresponding file is present.
 For example:
@@ -15,7 +15,7 @@ For example:
 
 # Installation
 
-Add `install` to your PATH. For example, make a `bin` folder in your `$HOME`
+Add `install-install` to your PATH. For example, make a `bin` folder in your `$HOME`
 and put the following in your `.bashrc` or `.zshrc`:
 
 `export PATH=$HOME/bin:$PATH`
