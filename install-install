@@ -4,3 +4,4 @@
 [ -f "./package.json" ] && npm install
 [ -f "./bower.json" ] && bower install
 [ -f "./project.clj" ] && lein deps
+[ -f "./pom.xml" ] && mvn dependency:resolve
