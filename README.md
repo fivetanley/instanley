@@ -1,12 +1,12 @@
-Install-Install
+Instanley
 ===============
 
 There are too many package managers for your projects nowadays. To install
 with Bundler, NPM, Bower, Leiningen or Maven:
 
-`install-install`
+`instanley`
 
-Install-Install will only run the command if its corresponding file is present.
+Instanley will only run the command if its corresponding file is present.
 For example:
 
 * `bundle install` will run if a `Gemfile` is present
@@ -17,7 +17,7 @@ For example:
 
 # Installation
 
-Add `install-install` to your PATH. For example, make a `bin` folder in your `$HOME`
+Add `instanley` to your PATH. For example, make a `bin` folder in your `$HOME`
 and put the following in your `.bashrc` or `.zshrc`:
 
 `export PATH=$HOME/bin:$PATH`
