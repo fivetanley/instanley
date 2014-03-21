@@ -22,6 +22,10 @@ and put the following in your `.bashrc` or `.zshrc`:
 
 `export PATH=$HOME/bin:$PATH`
 
+## Reviews
+
+"it works" - @codekitchen
+
 ## License
 
 MIT. See the included `LICENSE` folder in this repository.
