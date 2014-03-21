@@ -24,7 +24,7 @@ and put the following in your `.bashrc` or `.zshrc`:
 
 ## Reviews
 
-"it works" - @codekitchen
+"woo it works" - @codekitchen
 
 ## License
 
