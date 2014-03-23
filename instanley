@@ -5,3 +5,4 @@
 [ -f "./bower.json" ] && bower install
 [ -f "./project.clj" ] && lein deps
 [ -f "./pom.xml" ] && mvn dependency:resolve
+[ -f "./composer.json" ] && composer install
