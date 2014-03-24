@@ -14,6 +14,7 @@ For example:
 * `bower install` will run if a `bower.json` is present
 * `lein deps` will run if a `project.clj` is present
 * `mvn dependency:resolve` will run if a `pom.xml` is present
+* `composer install` will run if a `composer.json` is present
 
 # Installation
 
