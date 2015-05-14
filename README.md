@@ -2,7 +2,7 @@ Instanley
 ===============
 
 There are too many package managers for your projects nowadays. To install
-with Bundler, NPM, Bower, Leiningen or Maven:
+with Bundler, NPM, Bower, Leiningen, Maven or Composer:
 
 `instanley`
 
